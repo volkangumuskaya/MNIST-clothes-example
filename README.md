@@ -79,6 +79,8 @@ Labels list according to https://developers.google.com/codelabs/tensorflow-2-com
 9 |Ankle boot
 
 ## Below is the code to make predcitions using own images
+The images can be found here: https://github.com/volkangumuskaya/images_for_CV_example
+
 
 ```
 #####Test on custom images I got from google images, saved as png in [custom_tests]
