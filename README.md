@@ -1,5 +1,7 @@
 # MNIST-clothes-example
-Toy example to try out CV. Training the model is simple using online sources. Had to play around array size while testing the model with own images created by screenshots saved in my local. Could not get a decent accuracy though, but this was not the main purpose anyway.
+Toy example to try out CV in my local . Maybe I will make a repo that will be executable with GitHub workflow in the future. Below is just for illustration and copy/paste purposes. 
+
+Anyway.. Training the model is simple using online sources. Had to play around array size while testing the model with own images created by screenshots saved in my local. Could not get a decent accuracy though, but this was not the main purpose anyway.
 
 ```
 #remove all variables
